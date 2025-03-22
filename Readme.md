@@ -24,7 +24,7 @@ This will give you just the bold and italic buttons.
 You will also have to add this `use` statement to the top of the file:
 
 ``` php
-use Manogi\Tiptap\Tiptap;
+use STukenov\Tiptap\Tiptap;
 ```
 
 

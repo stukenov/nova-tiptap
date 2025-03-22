@@ -1,6 +1,6 @@
 <?php
 
-namespace Manogi\Tiptap\Facades;
+namespace STukenov\Tiptap\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

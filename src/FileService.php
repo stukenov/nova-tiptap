@@ -1,6 +1,6 @@
 <?php
 
-namespace Manogi\Tiptap;
+namespace STukenov\Tiptap;
 
 use Illuminate\Support\Str;
 

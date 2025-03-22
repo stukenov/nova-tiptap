@@ -1,5 +1,5 @@
 {
-    "name": "manogi/nova-tiptap",
+    "name": "stukenov/nova-tiptap",
     "description": "A Laravel Nova tiptap editor field.",
     "keywords": [
         "laravel",
@@ -25,13 +25,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Manogi\\Tiptap\\": "src/"
+            "STukenov\\Tiptap\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Manogi\\Tiptap\\FieldServiceProvider"
+                "STukenov\\Tiptap\\FieldServiceProvider"
             ]
         }
     },

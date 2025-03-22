@@ -1,8 +1,8 @@
 <?php
 
-namespace Manogi\Tiptap\Controllers;
+namespace STukenov\Tiptap\Controllers;
 
-use Facades\Manogi\Tiptap\FileService;
+use Facades\STukenov\Tiptap\FileService;
 use Illuminate\Support\Facades\Storage;
 
 class ImagesController
