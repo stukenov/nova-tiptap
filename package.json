@@ -60,7 +60,7 @@
         "@tiptap/extension-text-align": "^2.0.0-beta.18",
         "@tiptap/extension-text-style": "^2.0.0-beta.17",
         "@tiptap/extension-underline": "^2.0.0-beta.15",
-        "@tiptap/vue-2": "^2.0.0-beta.38",
+        "@tiptap/vue-2": "^2.11.5",
         "add": "^2.0.6",
         "axios": "^0.21.1",
         "i": "^0.3.7",
