@@ -69,7 +69,7 @@
         "portal-vue": "^2.1.7",
         "pretty": "^2.0.0",
         "vue": "^2.6.14",
-        "vue-codemirror": "^4.0.6",
+        "vue-codemirror": "^6.1.1",
         "vue-template-compiler": "^2.6.14",
         "vue-trix": "^1.2.0",
         "yarn": "^1.22.11"
