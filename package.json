@@ -57,7 +57,7 @@
         "@tiptap/extension-text-align": "^2.11.5",
         "@tiptap/extension-text-style": "^2.11.7",
         "@tiptap/extension-underline": "^2.11.5",
-        "@tiptap/vue-2": "^2.11.5",
+        "@tiptap/vue-2": "^2.11.7",
         "add": "^2.0.6",
         "axios": "^1.8.4",
         "i": "^0.3.7",
