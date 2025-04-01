@@ -26,7 +26,7 @@
     "dependencies": {
         "@tiptap/core": "^2.11.5",
         "@tiptap/extension-blockquote": "^2.11.5",
-        "@tiptap/extension-bold": "^2.11.5",
+        "@tiptap/extension-bold": "^2.11.7",
         "@tiptap/extension-bullet-list": "^2.11.5",
         "@tiptap/extension-code": "^2.11.7",
         "@tiptap/extension-code-block-lowlight": "^2.11.5",
