@@ -31,7 +31,7 @@
         "@tiptap/extension-code": "^2.11.7",
         "@tiptap/extension-code-block-lowlight": "^2.11.7",
         "@tiptap/extension-color": "^2.11.7",
-        "@tiptap/extension-document": "^2.11.7",
+        "@tiptap/extension-document": "^3.8.0",
         "@tiptap/extension-dropcursor": "^2.11.7",
         "@tiptap/extension-gapcursor": "^2.11.7",
         "@tiptap/extension-hard-break": "^2.11.7",
