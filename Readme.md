@@ -217,7 +217,7 @@ Tiptap::make('Body')
 
 ### Visibility in the index view
 
-Like Nova's `Textarea` and `Trix` fields, this field is hidden from index views. Surface its content there with a [computed field](https://nova.laravel.com/docs/resources/fields.html#computed-fields).
+Like Nova's `Textarea` and `Trix` fields, this field is hidden from index views. Surface its content there with a [computed field](https://nova.laravel.com/docs/v4/resources/fields#computed-fields).
 
 ## Screenshots
 
